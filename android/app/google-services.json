@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "1046175354076",
+    "project_id": "e-commerce-2d69f",
+    "storage_bucket": "e-commerce-2d69f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1046175354076:android:07126773efe811f62b3819",
+        "android_client_info": {
+          "package_name": "com.example.tinder_yt"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUtHp0w9acQWYPOVuCp7OwBenDhqNCtmE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1046175354076:android:7fafadc1e44b70f62b3819",
+        "android_client_info": {
+          "package_name": "com.iqonic.servicebooking"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUtHp0w9acQWYPOVuCp7OwBenDhqNCtmE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1046175354076:android:3a64b95ec06ba44c2b3819",
+        "android_client_info": {
+          "package_name": "com.sixamtech.hexacom_user"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUtHp0w9acQWYPOVuCp7OwBenDhqNCtmE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
